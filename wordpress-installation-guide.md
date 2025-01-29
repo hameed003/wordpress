@@ -24,7 +24,7 @@
 
 ### wp-config-sample.php file ( before rename )
 
-![wp-config-sample.php file](https://github.com/hameed003/learn-wiki/blob/main/blue-5457731.jpg)
+![wp-config-sample.php file](https://github.com/hameed003/wordpress/blob/main/images/image%203.png)
 
 ### wp-config.php file ( after rename )
 
