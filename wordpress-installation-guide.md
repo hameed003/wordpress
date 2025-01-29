@@ -4,7 +4,7 @@
 
 1. Download latest version of **XAMPP** according to your **Operating System** from the official **XAMPP** website. [Download XAMPP](https://www.apachefriends.org/download.html)
 
-2. Once the **XAMPP** is downloaded Run the **`installer`** and install it in `C:\xampp`.
+2. Once the **XAMPP** is downloaded Run the `installer` and install it in `C:\xampp`.
 
 3. Open **XAMPP Control Panel** and **Start**:
    - Apache ( for the web server to run `PHP` )
