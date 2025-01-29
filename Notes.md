@@ -1,13 +1,5 @@
 # Notes
 
-## All About XAMPP :
-
-1. Apache in XAMPP is used to run PHP.
-
-2. MySQL in XAMPP is used to run databases.
-
-3. while setting up WordPress we have to first create a database by going into localhost/phpmyadmin > database > create database once the database is created come back to the previous window and click on the databaseName which you have created and then go to the privileges option on top menu bar and add user account and fill the details and then go to localhost/databaseName/wp-admin in browser to set up WordPress to open WordPress dashboard.
-
 ## WordPress Note :
 
 1. while setting up WordPress we have to first create a database by going into localhost/phpmyadmin > database > create database once the database is created come back to the previous window and click on the databaseName which you have created and then go to the privileges option on top menu bar and add user account and fill the details and then go to localhost/databaseName/wp-admin in browser to set up WordPress to open WordPress dashboard
@@ -53,3 +45,11 @@
 21. Elementor is a theme Builder and we should not use it for content writing, we should use Gutenberg for writing content.
 
 22. we should use Elementor for Page Design and Gutenberg for content writing like Blog post etc. to maintain high loading speed of the website.
+
+## All About XAMPP :
+
+1. Apache in XAMPP is used to run PHP.
+
+2. MySQL in XAMPP is used to run databases.
+
+3. while setting up WordPress we have to first create a database by going into localhost/phpmyadmin > database > create database once the database is created come back to the previous window and click on the databaseName which you have created and then go to the privileges option on top menu bar and add user account and fill the details and then go to localhost/databaseName/wp-admin in browser to set up WordPress to open WordPress dashboard.
