@@ -24,17 +24,17 @@
 
 ### wp-config-sample.php file ( before rename )
 
-![wp-config-sample.php-file-image-1](https://github.com/hameed003/wordpress/blob/main/images/01%20image.png)
+![wp-config-sample.php-file-image-1](https://github.com/hameed003/wordpress/blob/main/images/01%20wp-config-sample.php-file-image-1.png)
 
-![wp-config-sample.php-file-image-2](https://github.com/hameed003/wordpress/blob/main/images/03%20image.png)
+![wp-config-sample.php-file-image-2](https://github.com/hameed003/wordpress/blob/main/images/02%20wp-config-sample.php-file-image-2.png)
 
 ### wp-config.php file ( after rename )
 
-![wp-config.php file-image-1](https://github.com/hameed003/wordpress/blob/main/images/02%20image.png)
+![wp-config.php file-image-1](https://github.com/hameed003/wordpress/blob/main/images/03%20wp-config.php%20file-image-1.png)
 
 Set or Change **DB_NAME** to `wordpress_db`, **DB_USER** to `root` and **DB_PASSWORD** to `" "` ( empty, default in XAMPP )
 
-![wp-config.php file-image-2](https://github.com/hameed003/wordpress/blob/main/images/image%204.png)
+![wp-config.php file-image-2](https://github.com/hameed003/wordpress/blob/main/images/04%20wp-config.php%20file-image-2.png)
 
 ## Step 3: Create a MySQL Database for WordPress
 
@@ -46,7 +46,7 @@ http://localhost/phpmyadmin/
 
 2. Click **Databases** → Enter a database name (e.g., `wordpress_db`) → Click Create.
 
-![mySQL-database-dashboard-image](https://github.com/hameed003/wordpress/blob/main/images/image%204.png)
+![mySQL-database-dashboard-image](https://github.com/hameed003/wordpress/blob/main/images/05%20mySQL-database-dashboard-image.png)
 
 **Note:** the database name in `wp-config.php` must match exactly with the database name created in http://localhost/phpmyadmin/ like `wordpress_db` in this case.
 
@@ -62,7 +62,7 @@ http://localhost/wordpress/
 
 2. Select a language → Click **Continue.**
 
-![Select-wordpress-language-image](https://github.com/hameed003/wordpress/blob/main/images/image%205.png)
+![Select-wordpress-language-image](https://github.com/hameed003/wordpress/blob/main/images/06%20Select-wordpress-language-image.png)
 
 3. Enter database details ( if asked or else setup manually as we setup above in `C:\xampp\htdocs\wordpress\wp-config.php` ):
    - **Database Name:** `wordpress_db` (the one you created)
@@ -73,9 +73,9 @@ http://localhost/wordpress/
 
 5. Fill in WordPress site details ( username, password, email ) and click **Install WordPress**.
 
-![Setupt-WordPres-credential-image](https://github.com/hameed003/wordpress/blob/main/images/image%206.png)
+![Setupt-WordPres-credential-image](https://github.com/hameed003/wordpress/blob/main/images/07%20Setupt-WordPres-credential-image.png)
 
-![WordPress-Installation-Success-image](https://github.com/hameed003/wordpress/blob/main/images/image%207.png)
+![WordPress-Installation-Success-image](https://github.com/hameed003/wordpress/blob/main/images/08%20WordPress-Installation-Success-image.png)
 
 ## Step 5: Login to WordPress Admin Panel
 
@@ -87,8 +87,8 @@ http://localhost/wordpress/wp-admin/
 
 - Enter your credentials and start using WordPress!
 
-![WordPress-login-page-image](https://github.com/hameed003/wordpress/blob/main/images/image%208.png)
+![WordPress-login-page-image](https://github.com/hameed003/wordpress/blob/main/images/09%20WordPress-login-page-image.png)
 
 **Wordpress Dashboard or Admin Pannel**
 
-![Wordpress-Dashboard-image](https://github.com/hameed003/wordpress/blob/main/images/image%209.png)
+![Wordpress-Dashboard-image](https://github.com/hameed003/wordpress/blob/main/images/10%20Wordpress-Dashboard-image.png)
