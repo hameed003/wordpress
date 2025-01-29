@@ -21,7 +21,8 @@
    - You can rename the folder `wordpress` (e.g., `mywebsite`).
 
 4. Now go to `C:\xampp\htdocs\wordpress\wp-config-sample.php` and make a copy of `wp-config-sample.php` and rename it to `wp-config.php` and make the necessary changes as shown below.
-   ![image 1](https://github.com/hameed003/wordpress/blob/main/images/image%201.png)
+
+![image 1](https://github.com/hameed003/wordpress/blob/main/images/image%201.png)
 
 ![image 2](https://github.com/hameed003/wordpress/blob/main/images/image%202.png)
 
@@ -57,7 +58,8 @@ http://localhost/wordpress/
 ( or _`http://localhost/mywebsite/`_ if renamed )
 
 2. Select a language → Click **Continue.**
-   ![Select-language](https://github.com/hameed003/wordpress/blob/main/images/image%205.png)
+
+![Select-language](https://github.com/hameed003/wordpress/blob/main/images/image%205.png)
 
 3. Enter database details ( if asked or else setup manually as we setup above in `C:\xampp\htdocs\wordpress\wp-config.php` ):
    - **Database Name:** `wordpress_db` (the one you created)
@@ -67,9 +69,10 @@ http://localhost/wordpress/
 4. Click **Submit** → Click **Run the Installation**.
 
 5. Fill in WordPress site details ( username, password, email ) and click **Install WordPress**.
-   ![Install-WordPres](https://github.com/hameed003/wordpress/blob/main/images/image%206.png)
 
-   ![WordPress-Installed-Success](https://github.com/hameed003/wordpress/blob/main/images/image%207.png)
+![Install-WordPres](https://github.com/hameed003/wordpress/blob/main/images/image%206.png)
+
+![WordPress-Installed-Success](https://github.com/hameed003/wordpress/blob/main/images/image%207.png)
 
 ## Step 5: Login to WordPress Admin Panel
 
@@ -84,4 +87,5 @@ http://localhost/wordpress/wp-admin/
 ![WordPress-Credentail](https://github.com/hameed003/wordpress/blob/main/images/image%208.png)
 
 **Wordpress Dashboard or Admin Pannel**
+
 ![Wordpress-Dashboard](https://github.com/hameed003/wordpress/blob/main/images/image%209.png)
