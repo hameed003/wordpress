@@ -18,7 +18,7 @@
 
 3. Move the extracted `wordpress` folder to `C:\xampp\htdocs\`.
 
-   - You can rename the `wordpress` folder (e.g., `mywebsite`).
+   - You can rename the `wordpress` folder ( e.g., `mywebsite`).
 
 4. Now go to `C:\xampp\htdocs\wordpress\wp-config-sample.php` and make a copy of `wp-config-sample.php` and rename it to `wp-config.php` and make the necessary changes as shown below.
 
@@ -32,7 +32,8 @@
 
 ![image 2](https://github.com/hameed003/wordpress/blob/main/images/image%202.png)
 
-**Set or Change `DB_NAME to wordpress_db`, `DB_USER to root`, `DB_PASSWORD to "" ( empty by default in XAMPP )`**
+Set or Change **DB_NAME** to `wordpress_db`, **DB_USER** to `root`, **DB_PASSWORD** to `""` ( empty, default in XAMPP )`
+
 ![wp-config.php file](https://github.com/hameed003/wordpress/blob/main/images/image%204.png)
 
 ## Step 3: Create a MySQL Database for WordPress
