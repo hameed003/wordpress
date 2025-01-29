@@ -22,13 +22,13 @@
 
 4. Now go to `C:\xampp\htdocs\wordpress\wp-config-sample.php` and make a copy of `wp-config-sample.php` and rename it to `wp-config.php` and make the necessary changes as shown below.
 
-### wp-config-sample.php file ( before rename )
+### `wp-config-sample.php` file ( before rename )
 
 ![wp-config-sample.php-file-image-1](https://github.com/hameed003/wordpress/blob/main/images/01%20wp-config-sample.php-file-image-1.png)
 
 ![wp-config-sample.php-file-image-2](https://github.com/hameed003/wordpress/blob/main/images/02%20wp-config-sample.php-file-image-2.png)
 
-### wp-config.php file ( after rename )
+### `wp-config.php` file ( after rename )
 
 ![wp-config.php file-image-1](https://github.com/hameed003/wordpress/blob/main/images/03%20wp-config.php%20file-image-1.png)
 
