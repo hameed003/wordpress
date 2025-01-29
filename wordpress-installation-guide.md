@@ -2,25 +2,25 @@
 
 ## Step 1: Download & Install XAMPP
 
-1. Download latest version of XAMPP according to your Operating System from the official `XAMPP` website [Download XAMPP](https://www.apachefriends.org/download.html)
+1. Download latest version of **XAMPP** according to your **Operating System** from the official **XAMPP** website. [Download XAMPP](https://www.apachefriends.org/download.html)
 
-2. Once the XAMPP is downloaded Run the installer and install it in `C:\xampp`.
+2. Once the **XAMPP** is downloaded Run the **`installer`** and install it in **`C:\xampp`**.
 
 3. Open **XAMPP Control Panel** and **Start**:
-   - Apache ( for the web server )
-   - MySQL ( for the database )
+   - Apache ( for the web server to run `PHP` )
+   - MySQL ( for the database to run `mySQL` )
 
 ## Step 2: Download & Extract WordPress
 
-1. Now download the latest version of wordpress from the official `wordpress.org` website [Download Wordpress](https://wordpress.org/download/)
+1. Now download the latest version of **WordPress** from the official `wordpress.org` website. [Download Wordpress](https://wordpress.org/download/)
 
-2. Once the `wordpress` is downloaded, `Extract` the downloaded `.zip` file it in the download folder.
+2. Once the **`wordpress`** is downloaded, **`Extract`** the downloaded **`.zip`** file it in the download folder.
 
-3. Move the extracted `wordpress` folder to `C:\xampp\htdocs\`.
+3. Move the extracted **`wordpress`** folder to **`C:\xampp\htdocs\`**.
 
-   - You can rename the folder `wordpress` (e.g., `mywebsite`).
+   - You can rename the folder **`wordpress`** (e.g., `mywebsite`).
 
-4. Now go to `C:\xampp\htdocs\wordpress\wp-config-sample.php` and make a copy of `wp-config-sample.php` and rename it to `wp-config.php` and make the necessary changes as shown below.
+4. Now go to **`C:\xampp\htdocs\wordpress\wp-config-sample.php`** and make a copy of **`wp-config-sample.php`** and rename it to **`wp-config.php`** and make the necessary changes as shown below.
 
 ![image 1](https://github.com/hameed003/wordpress/blob/main/images/image%201.png)
 
@@ -43,9 +43,9 @@
 http://localhost/phpmyadmin/
 ```
 
-2. Click **Databases** → Enter a database name (e.g., `wordpress_db`) → Click Create.
+2. Click **Databases** → Enter a database name (e.g., **`wordpress_db`**) → Click Create.
 
-**Note:** the database name in `wp-config.php` must match exactly with the database name created in http://localhost/phpmyadmin/ like `wordpress_db` in this case.
+**Note:** the database name in **`wp-config.php`** must match exactly with the database name created in http://localhost/phpmyadmin/ like **`wordpress_db`** in this case.
 
 ## Step 4: Configure WordPress
 
@@ -62,10 +62,10 @@ http://localhost/wordpress/
 ![Select-language](https://github.com/hameed003/wordpress/blob/main/images/image%205.png)
 
 3. Enter database details ( if asked or else setup manually as we setup above in `C:\xampp\htdocs\wordpress\wp-config.php` ):
-   - **Database Name:** `wordpress_db` (the one you created)
-   - **Username:** `root`
+   - **Database Name:** **`wordpress_db`** (the one you created)
+   - **Username:** **`root`**
    - **Password:** ( _leave empty, default for XAMPP_ )
-   - **Database Host:** `localhost`
+   - **Database Host:** **`localhost`**
 4. Click **Submit** → Click **Run the Installation**.
 
 5. Fill in WordPress site details ( username, password, email ) and click **Install WordPress**.
