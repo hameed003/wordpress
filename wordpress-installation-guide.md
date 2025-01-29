@@ -46,8 +46,9 @@ http://localhost/phpmyadmin/
 
 2. Click **Databases** → Enter a database name (e.g., `wordpress_db`) → Click Create.
 
-![mySQL-database-dashboard-image](https://github.com/hameed003/wordpress/blob/main/images/05%20mySQL-database-dashboard-image.png)
+![mySQL-database-dashboard-image-1](https://github.com/hameed003/wordpress/blob/main/images/05%20mySQL-database-dashboard-image-1.png)
 
+![mySQL-database-dashboard-image-2](https://github.com/hameed003/wordpress/blob/main/images/05%20mySQL-database-dashboard-image-2.png)
 **Note:** the database name in `wp-config.php` must match exactly with the database name created in http://localhost/phpmyadmin/ like `wordpress_db` in this case.
 
 ## Step 4: Configure WordPress
