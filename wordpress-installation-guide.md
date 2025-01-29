@@ -65,10 +65,10 @@ http://localhost/wordpress/
 
 ![Select-wordpress-language-image](https://github.com/hameed003/wordpress/blob/main/images/06%20Select-wordpress-language-image.png)
 
-3. Enter database details ( if asked or else setup manually as we setup above in `C:\xampp\htdocs\wordpress\wp-config.php` ):
-   - **Database Name:** `wordpress_db` (the one you created)
+3. Enter database details ( if asked or else setup manually as we setup above in `C:\xampp\htdocs\wordpress\wp-config.php` ) :
+   - **Database Name:** `wordpress_db` ( the one you created )
    - **Username:** `root`
-   - **Password:** ( _leave empty, default for XAMPP_ )
+   - **Password: " " ** ( _leave empty, default for XAMPP_ )
    - **Database Host:** `localhost`
 4. Click **Submit** → Click **Run the Installation**.
 
