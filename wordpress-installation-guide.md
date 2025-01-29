@@ -68,7 +68,7 @@ http://localhost/wordpress/
 3. Enter database details ( if asked or else setup manually as we setup above in `C:\xampp\htdocs\wordpress\wp-config.php` ) :
    - **Database Name:** `wordpress_db` ( the one you created )
    - **Username:** `root`
-   - **Password: " " ** ( _leave empty, default for XAMPP_ )
+   - **Password: " "** ( _leave empty, default for XAMPP_ )
    - **Database Host:** `localhost`
 4. Click **Submit** → Click **Run the Installation**.
 
