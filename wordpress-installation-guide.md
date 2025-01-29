@@ -32,7 +32,7 @@
 
 ![image 2](https://github.com/hameed003/wordpress/blob/main/images/image%202.png)
 
-Set or Change **DB_NAME** to `wordpress_db`, **DB_USER** to `root`, **DB_PASSWORD** to `""` ( empty, default in XAMPP )`
+Set or Change **DB_NAME** to `wordpress_db`, **DB_USER** to `root` and **DB_PASSWORD** to `" "` ( empty, default in XAMPP )
 
 ![wp-config.php file](https://github.com/hameed003/wordpress/blob/main/images/image%204.png)
 
