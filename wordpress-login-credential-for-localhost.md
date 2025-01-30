@@ -4,11 +4,8 @@
 
 ```
 DB_Name: wordpress_db
-
 DB_USER: root
-
 DB_PASSWORD: ' ' ( empty default in XAMPP )
-
 DB_HOST: localhost
 ```
 
@@ -22,11 +19,9 @@ mysql -u root
 
 ```
 Site Title: Online Store
-
+Site name: http://localhost/wordpress/
 Username: hameed008
-
 Password: HameEd@50
-
 Gmail: khanhameed81911@gmail.com
 ```
 
@@ -34,8 +29,6 @@ Gmail: khanhameed81911@gmail.com
 
 ```
 localhost/websiteName - to visit the website.
-
 localhost/websiteName/wp-admin - to open WordPress Dashboard to customize or develop the website.
-
 localhost/phpmyadmin - to open MySQL database
 ```

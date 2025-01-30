@@ -15,16 +15,19 @@ Pass: HameEd@50
 
 ```
 User 1
+Site name: hameedestore.42web.io
 Username: hameed008
 Password: HameEd@50
+Gmail: khanhameed81911@gmail.com
 ```
 
 **Note:** we can add multiple users who can access the WordPress dashboard and make changes to our website
 
-**Website URL:** http://hameedestore.42web.io/
+**Website URL:** https://hameedestore.42web.io/
 
 This is the actual link of our website
 
-**Administrative URL:** http://hameedestore.42web.io/wp-admin/
+**Administrative URL:** https://hameedestore.42web.io/wp-admin/
 
 This is the WordPress dashboard or admin panel link from where we can make changes or add new features to our website.
+

@@ -93,3 +93,13 @@ http://localhost/wordpress/wp-admin/
 **Wordpress Dashboard or Admin Pannel**
 
 ![Wordpress-Dashboard-image](https://github.com/hameed003/wordpress/blob/main/images/10%20Wordpress-Dashboard-image.png)
+
+# B: Install And Setup WordPress On Hosting Platform Like Hostinger, Bluehost and Infinityfree :
+
+## Hostinger
+
+**Video Guide:** https://www.youtube.com/watch?v=CzIf6YJzUhU
+
+## Infinityfree
+
+**Video Guide:** https://www.youtube.com/watch?v=2E03Nz0RJ0E
